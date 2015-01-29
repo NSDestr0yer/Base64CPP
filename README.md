@@ -1,1 +1,1 @@
-Base64CPP
+Base 64 utilities for C++
